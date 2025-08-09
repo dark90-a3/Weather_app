@@ -492,6 +492,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
                         Text(
                           'Welcome to Weather App',
                           style: TextStyle(
+                            
                             color: Colors.white,
                             fontSize: 24,
                             fontWeight: FontWeight.bold,
